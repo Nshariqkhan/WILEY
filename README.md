@@ -1,6 +1,7 @@
 # WILEY
-# THIS IS MY FIRST PROJECT
+# THIS IS MY FIRST PROJECT WITH WILEY
 
-<p>Below are the Feature of my project</p>
- - Feature1
+<p> Below are the Features of my Project </p>
+ - Feature 1
  - Feature 2
+ - Feature 3
